@@ -1,0 +1,6 @@
+##[pylyzer] failed /home/ffdnxob/projects/Python-projects/pyProgram3/main.py 1738773584 434
+.listOfBadWords: List!({"cunt", "whore", "nigger", "ass", "fuck", "nigga", "fucker", "bitch", "harlot", "faggot", "cock", "shit", "slut"}, 13)
+.userIn: () -> Never
+.wordCensorer: Never
+
+
