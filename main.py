@@ -2,7 +2,7 @@ import re
 
 ## not the most advanced word censorer. includes profanities. beware.  
 
-listOfBadWords = ["fuck", "shit", "bitch", "slut", "harlot", "nigga", "nigger", "whore", "cunt", "ass", "fucker", "faggot", "cock", "dick", "chink", "hoe", "cuck", "motherfucker", "pussy", "dumbass", "porn", "butthole", "jackass", "moron", "dumbass", "dumb", "fucking", "tittes", "tits", "cocksucker", "retard"]
+listOfBadWords = ["fuck", "shit", "bitch", "slut", "harlot", "nigga", "nigger", "whore", "cunt", "ass", "fucker", "faggot", "cock", "dick", "chink", "hoe", "cuck", "motherfucker", "pussy", "dumbass", "porn", "butthole", "jackass", "moron", "dumbass", "dumb", "fucking", "tittes", "tits", "cocksucker", "retard", "asshole"]
 
 
 def userIn():
