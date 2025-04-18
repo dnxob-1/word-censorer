@@ -1,8 +1,8 @@
 import re
 
-## not the most advanced word censorer. includes profanities. beware.  
+## not the most advanced word censorer. 
 
-listOfBadWords = ["fuck", "shit", "bitch", "slut", "harlot", "nigga", "nigger", "whore", "cunt", "ass", "fucker", "faggot", "cock", "dick", "chink", "hoe", "cuck", "motherfucker", "pussy", "dumbass", "porn", "butthole", "jackass", "moron", "dumbass", "dumb", "fucking", "tittes", "tits", "cocksucker", "retard", "asshole"]
+listOfBadWords = [] # add profanities 
 
 
 def userIn():
